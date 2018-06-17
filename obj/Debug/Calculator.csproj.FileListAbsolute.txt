@@ -1,0 +1,7 @@
+C:\MGerosa\Calculator\calculator-test-master\Calculator\bin\Debug\Calculator.exe.config
+C:\MGerosa\Calculator\calculator-test-master\Calculator\bin\Debug\Calculator.exe
+C:\MGerosa\Calculator\calculator-test-master\Calculator\bin\Debug\Calculator.pdb
+C:\MGerosa\Calculator\calculator-test-master\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\MGerosa\Calculator\calculator-test-master\Calculator\obj\Debug\Calculator.exe
+C:\MGerosa\Calculator\calculator-test-master\Calculator\obj\Debug\Calculator.pdb
+C:\MGerosa\Calculator\calculator-test-master\Calculator\bin\Debug\input.txt
