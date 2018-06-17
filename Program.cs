@@ -85,7 +85,7 @@ namespace Calculator
             }
             catch (IndexOutOfRangeException)
             {
-                Console.WriteLine("You must specify an argument");
+                Console.WriteLine("ERROR : You must specify an argument");
             }
             catch (Exception exc)
             {
